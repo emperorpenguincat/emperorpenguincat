@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @emperorpenguincat
+- 👋 Hi, I’m Nick also known as penguincat
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning computer science specialise in security
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/tannickkean/)
+- 🌱 I’m currently learning computer science specialise in cyber security
+- 📫 Reach me through [Linkedin](https://www.linkedin.com/in/tannickkean/)
+
+![penguincat](https://github.com/user-attachments/assets/979bb896-42cd-4574-99c0-936302c541af)
